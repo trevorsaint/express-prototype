@@ -32,4 +32,4 @@ Getting started
 
 Got to [http://localhost:3000/](http://localhost:3000/) in your browser.
 
-Any **changes to the mustache files** will result in a **livereload**. So there will be no need to refresh your browser.
+Any **changes to mustache files** will result in a **livereload**.
