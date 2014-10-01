@@ -20,10 +20,7 @@ You can install all the required node modules:
 Getting started
 ---------------
 
-* Clone this repo.
-
-* Runn the app
-
-**node app.js**
+* Clone this repo
+* Run the app by typing: **node app.js**
 
 Got to [http://localhost:3000](http://localhost:3000) in your browser.
