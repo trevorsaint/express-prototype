@@ -8,6 +8,13 @@ This prototype uses:
 * [mustache](http://mustache.github.io/)
 * [hogan-middleware](https://www.npmjs.org/package/hogan-middleware/)
 
+Other dev dependencies include:
+
+* [grunt](http://gruntjs.com/)
+* [grunt-express-server](https://www.npmjs.org/package/grunt-express-server/)
+* [grunt-contrib-watch](https://www.npmjs.org/package/grunt-contrib-watch)
+* [grunt-mustache-mustache](https://www.npmjs.org/package/grunt-mustache-mustache/)
+
 
 About this repository
 ---------------------
