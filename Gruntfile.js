@@ -22,22 +22,25 @@ module.exports = function(grunt) {
 
 
     express: {
+
       options: {
         // Override defaults here
       },
+
       dev: {
         options: {
           script: 'app.js'
         }
       }
+
     },
 
 
     watch: {
+
       options: {
         livereload: true,
       },
-
 
       mustache_mustache: {
         files: 'views/**/*.mustache',
@@ -47,16 +50,20 @@ module.exports = function(grunt) {
           livereload: true,
           spawn: false
         }
+
       },
 
-
       express: {
-        files:  [ 'app.js' ],
+        files:  [ 'app.js', 'routes.js' ],
         tasks:  [ 'express:dev' ],
+
         options: {
+          livereload: true,
           spawn: false
         }
+
       }
+
     }
 
 
