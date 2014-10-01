@@ -3,10 +3,10 @@ Simple Express Prototype
 
 This prototype uses:
 
-*nodejs, 
-*express
-*mustache
-*hogan-middleware
+* nodejs, 
+* express
+* mustache
+* hogan-middleware
 
 
 About this repository
