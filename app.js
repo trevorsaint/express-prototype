@@ -1,7 +1,6 @@
 var express = require('express'),
     routes  = require(__dirname + '/routes.js'),
-    app     = express(),
-    port    = (process.env.PORT || 3000);
+    app     = express();
 
 
 // application settings
@@ -15,5 +14,6 @@ routes.bind(app, '/');
 
 
 // start the app
-app.listen(port)
-console.log('Listening on port: ' + port);
+app.listen(3000, function() {
+  console.log('Server listening on port 3000');
+});
