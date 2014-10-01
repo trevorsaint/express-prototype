@@ -3,10 +3,10 @@ Simple Express Prototype
 
 This prototype uses:
 
-* nodejs, 
-* express
-* mustache
-* hogan-middleware
+* [nodejs](http://nodejs.org/)
+* [express](http://expressjs.com/)
+* [mustache](http://mustache.github.io/)
+* [hogan-middleware](https://www.npmjs.org/package/hogan-middleware/)
 
 
 About this repository
@@ -28,4 +28,4 @@ Getting started
 * Clone this repo
 * Run the app by typing: **node app**
 
-Got to [http://localhost:3000](http://localhost:3000) in your browser.
+Got to [http://localhost:3000/](http://localhost:3000/) in your browser.
