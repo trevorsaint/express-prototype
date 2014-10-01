@@ -13,7 +13,7 @@ About this repository
 ---------------------
 
 You can clone this repository and run it locally,
-You will need [Node.js](http://nodejs.org/).
+You will need [nodejs](http://nodejs.org/).
 
 You may already have it, try:
 **$ node --version**
@@ -26,6 +26,6 @@ Getting started
 ---------------
 
 * Clone this repo
-* Run the app by typing: **node app**
+* Run this app by typing: **node app**
 
 Got to [http://localhost:3000/](http://localhost:3000/) in your browser.
