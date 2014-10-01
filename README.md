@@ -16,9 +16,11 @@ You can clone this repository and run it locally,
 You will need [nodejs](http://nodejs.org/).
 
 You may already have it, try:
+
 **$ node --version**
 
 You can install all the required node modules:
+
 **$ npm install**
 
 
